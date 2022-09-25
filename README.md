@@ -1,6 +1,6 @@
-- 👋 Hi, I’m datis99(Datis AlmasPoor)
-- 👀 I’m interested in making windows application.
-- 🌱 I’m currently learning C# for making windows application
+- 👋 Hi, I’m datis99(Datis Almaspoor)
+- 👀 I’m interested in making application.
+- 🌱 I’m currently learning C# for making application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
